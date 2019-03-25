@@ -1,0 +1,6 @@
+@article{araujo2019expressive,
+  title={On the Expressive Power of Deep Fully Circulant Neural Networks},
+  author={Araujo, Alexandre and Negrevergne, Benjamin and Chevaleyre, Yann and Atif, Jamal},
+  journal={arXiv preprint arXiv:1901.10255},
+  year={2019}
+}
