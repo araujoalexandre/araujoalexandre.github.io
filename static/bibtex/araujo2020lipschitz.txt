@@ -1,0 +1,6 @@
+@article{araujo2020fast,
+  title={Fast \& Accurate Method for Bounding the Singular Values of Convolutional Layers with Application to Lipschitz Regularization},
+  author={Araujo, Alexandre and Negrevergne, Benjamin and Chevaleyre, Yann and Atif, Jamal},
+  journal={arXiv preprint arXiv:2006.08391},
+  year={2020}
+}

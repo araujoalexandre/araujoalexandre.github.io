@@ -1,0 +1,6 @@
+@article{araujo2019robust,
+  title={Robust neural networks using randomized adversarial training},
+  author={Araujo, Alexandre and Meunier, Laurent and Pinot, Rafael and Negrevergne, Benjamin},
+  journal={arXiv preprint arXiv:1903.10219},
+  year={2019}
+}

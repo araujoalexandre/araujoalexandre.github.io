@@ -1,6 +1,7 @@
-@article{pinot2019theoretical,
-  title={Theoretical evidence for adversarial robustness through randomization: the case of the Exponential family},
+@inproceedings{pinot2019theoretical,
+  title={Theoretical evidence for adversarial robustness through randomization},
   author={Pinot, Rafael and Meunier, Laurent and Araujo, Alexandre and Kashima, Hisashi and Yger, Florian and Gouy-Pailler, C{\'e}dric and Atif, Jamal},
-  journal={arXiv preprint arXiv:1902.01148},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={11838--11848},
   year={2019}
 }
