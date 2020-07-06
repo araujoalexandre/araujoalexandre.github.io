@@ -1,0 +1,88 @@
+<html lang="en"><head>
+
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <title>Alexandre Araujo</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="static/css/skeleton.css">
+  <link rel="stylesheet" href="static/css/tooltips.css">
+  <link rel="stylesheet" href="static/css/highlight.css">
+  <link rel="stylesheet" href="static/css/custom.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+  <!-- Scripts -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<body class="code-snippets-visible">
+
+  <!-- Primary Page Layout -->
+  <div class="container">
+    <section class="header">
+
+      <div class="row">
+        <div class="column_photo">
+          <img class="photo" src="photo.jpg">
+        </div>
+        <div class="column_name">
+          <h2 class="title">Alexandre Araujo</h2>
+          <h6>alexandre.araujo<img src="static/img/at-sign-icon.png" height="10" width="10">dauphine.eu</h6>
+        </div>
+      </div>
+      
+      <div style="font-style: italic; margin-bottom:5px; font-size: small">Last update {{ date }}</div>
+      
+      <div>
+        I am a 3rd year PhD candidate in Computer Science at <a class="desc-links" href="https://www.psl.eu/en">Université Paris-Dauphine PSL</a>. I am currently working within the <a class=desc-links href="https://www.lamsade.dauphine.fr/wp/miles/">Machine Learning and LEarning System</a> team under the supervision of Pr. Jamal Atif, Pr. Yann Chevaleyre and Dr. Benjamin Negrevergne. Before starting a PhD in Machine Learning, I studied Mathematics for two years at the University of Versailles and three years as part of a master's degree in Economics and Project Management at SKEMA Business School. During the course of my PhD, I have focused on how to leverage the properties of structured matrices to improve the training of neural networks.
+      </div>
+
+    </section>
+    
+    <div style="margin-top:20px">
+      <a style="margin-right:20px" href="https://scholar.google.fr/citations?user=wsu61VYAAAAJ">Google Scholar</a>
+      <a href="resume.pdf">Resume</a>
+    </div>
+
+    <div class="docs-section" id="publications">
+      <h6 class="docs-header">Research</h6>
+      {% for paper in papers %}
+      <div>
+        <div class="article">
+          <div class="strong">{{ paper.name }}</div>
+          <div>
+            <p class="article__authors">{{ paper.authors }}</p>
+            <p class="article__venue">{{ paper.venue }}</p>
+            <p class="article__year">{{ paper.year }}</p>
+          </div>
+          <div class="article-links">
+            <a class="strong" href="{{ paper.url }}">paper</a> •
+            {% if paper.code is not none %}
+              <a class="strong" href="{{ paper.code }}">code</a> •
+            {% endif %}
+            <a class="strong" href="static/bibtex/{{ paper.bibtex }}.txt">bibtex</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <section class="footer">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
+      <script src="static/js/tooltips.js"></script>
+    </section>
+
+  </div>
+</body>
+
+<!-- End Document -->
+
