@@ -1,5 +1,5 @@
 ---
-name: Training compact deep learning models for video classification using circulant matrices
+name: Training Compact Deep Learning Models for Video Classification using Circulant Matrices
 authors:
         - Alexandre Araujo
         - Benjamin Negrevergne
@@ -23,7 +23,7 @@ venue: 24th European Conference on Artificial Intelligence (ECAI 2020)
 year: 2019
 bibtex: araujo2019expressive
 ---
-name: Theoretical evidence for adversarial robustness through randomization
+name: Theoretical Evidence for Adversarial Robustness through Randomization
 authors:
         - Rafael Pinot
         - Laurent Meunier
