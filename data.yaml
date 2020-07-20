@@ -61,3 +61,15 @@ code: https://github.com/MILES-PSL/upper_bound_lipschitz_convolutional_layers
 venue: preprint
 year: 2020
 bibtex: araujo2020lipschitz
+---
+name: Advocating for Multiple Defense Strategies against Adversarial Examples
+authors:
+        - Alexandre Araujo
+        - Laurent Menuier
+        - Rafael Pinot
+        - Benjamin Negrevergne
+url: https://arxiv.org/
+code: null
+venue: Workshop on Machine Learning for CyberSecurity (MLCS@ECML-PKDD)
+year: 2020
+bibtex: null
