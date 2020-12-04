@@ -38,18 +38,6 @@ venue: Advances in Neural Information Processing Systems 32
 year: 2019
 bibtex: pinot2019theoretical
 ---
-name: On Lipschitz Regularization of Convolutional Layers using Toeplitz Matrix Theory
-authors:
-        - Alexandre Araujo
-        - Benjamin Negrevergne
-        - Yann Chevaleyre
-        - Jamal Atif
-url: https://arxiv.org/abs/2006.08391
-code: https://github.com/MILES-PSL/upper_bound_lipschitz_convolutional_layers
-venue: Thirty-Fifth AAAI Conference on Artificial Intelligence
-year: 2021
-bibtex: araujo2021lipschitz
----
 name: Advocating for Multiple Defense Strategies against Adversarial Examples
 authors:
         - Alexandre Araujo
@@ -61,3 +49,15 @@ code: null
 venue: Workshop on Machine Learning for CyberSecurity (MLCS@ECML-PKDD)
 year: 2020
 bibtex: null
+---
+name: On Lipschitz Regularization of Convolutional Layers using Toeplitz Matrix Theory
+authors:
+        - Alexandre Araujo
+        - Benjamin Negrevergne
+        - Yann Chevaleyre
+        - Jamal Atif
+url: https://arxiv.org/abs/2006.08391
+code: https://github.com/MILES-PSL/upper_bound_lipschitz_convolutional_layers
+venue: Thirty-Fifth AAAI Conference on Artificial Intelligence
+year: 2021
+bibtex: araujo2021lipschitz
