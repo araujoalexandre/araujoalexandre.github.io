@@ -38,19 +38,7 @@ venue: Advances in Neural Information Processing Systems 32
 year: 2019
 bibtex: pinot2019theoretical
 ---
-name: Robust Neural Networks using Randomized Adversarial Training
-authors:
-        - Alexandre Araujo
-        - Laurent Menuier
-        - Rafael Pinot
-        - Benjamin Negrevergne
-url: https://arxiv.org/abs/1903.10219
-code: null
-venue: preprint
-year: 2019
-bibtex: araujo2019robust
----
-name: Fast & Accurate Method for Bounding the Singular Values of Convolutional Layers with Application to Lipschitz Regularization
+name: On Lipschitz Regularization of Convolutional Layers using Toeplitz Matrix Theory
 authors:
         - Alexandre Araujo
         - Benjamin Negrevergne
@@ -58,9 +46,9 @@ authors:
         - Jamal Atif
 url: https://arxiv.org/abs/2006.08391
 code: https://github.com/MILES-PSL/upper_bound_lipschitz_convolutional_layers
-venue: preprint
-year: 2020
-bibtex: araujo2020lipschitz
+venue: Thirty-Fifth AAAI Conference on Artificial Intelligence
+year: 2021
+bibtex: araujo2021lipschitz
 ---
 name: Advocating for Multiple Defense Strategies against Adversarial Examples
 authors:
