@@ -1,6 +1,6 @@
 @article{araujo2019expressive,
-  title={On the Expressive Power of Deep Fully Circulant Neural Networks},
+  title={Understanding and Training Deep Diagonal Circulant Neural Networks},
   author={Araujo, Alexandre and Negrevergne, Benjamin and Chevaleyre, Yann and Atif, Jamal},
-  journal={arXiv preprint arXiv:1901.10255},
+  journal={The 24th European Conference on Artificial Intelligence - (ECAI)},
   year={2019}
 }

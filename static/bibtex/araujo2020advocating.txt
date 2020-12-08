@@ -1,0 +1,7 @@
+@article{araujo2020advocating,
+  title={Advocating for Multiple Defense Strategies against Adversarial Examples},
+  author={Araujo, Alexandre and Meunier, Laurent and Pinot, Rafael and Negrevergne, Benjamin},
+  journal={Workshop on Machine Learning for CyberSecurity (MLCS@ECML-PKDD)},
+  url={https://arxiv.org/abs/2012.02632},
+  year={2020}
+}
