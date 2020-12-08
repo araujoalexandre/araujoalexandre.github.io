@@ -1,7 +1,0 @@
-@article{araujo2021lipschitz,
-  title={On Lipschitz Regularization of Convolutional Layers using Toeplitz Matrix Theory},
-  author={Araujo, Alexandre and Negrevergne, Benjamin and Chevaleyre, Yann and Atif, Jamal},
-  journal={Thirty-Fifth AAAI Conference on Artificial Intelligence},
-  url={https://arxiv.org/abs/2006.08391},
-  year={2021}
-}
