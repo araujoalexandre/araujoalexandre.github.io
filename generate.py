@@ -50,8 +50,8 @@ def generate_bibtex():
     with open(filename, 'w') as f:
       f.write(cite)
 
-  for k,v in title_map.items():
-    print(k, v)
+  # for k,v in title_map.items():
+  #   print(k, v)
 
   return title_map
 
