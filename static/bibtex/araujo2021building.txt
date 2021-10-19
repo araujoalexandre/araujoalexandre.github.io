@@ -1,0 +1,6 @@
+@article{araujo2021building,
+  title={Building Compact and Robust Deep Neural Networks with Toeplitz Matrices},
+  author={Araujo, Alexandre},
+  journal={arXiv preprint arXiv:2109.00959},
+  year={2021}
+}

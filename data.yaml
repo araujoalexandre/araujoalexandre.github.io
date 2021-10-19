@@ -1,63 +1,71 @@
 ---
-name: Training Compact Deep Learning Models for Video Classification using Circulant Matrices
+title: Training Compact Deep Learning Models for Video Classification using Circulant Matrices
 authors:
-        - Alexandre Araujo
-        - Benjamin Negrevergne
-        - Yann Chevaleyre
-        - Jamal Atif
+  - Alexandre Araujo
+  - Benjamin Negrevergne
+  - Yann Chevaleyre
+  - Jamal Atif
 url: https://arxiv.org/abs/1810.01140
 code: https://github.com/araujoalexandre/youtube8m-circulant
-venue: The European Conference on Computer Vision (ECCV) Workshops
+venue: ECCV - Workshops
 year: 2018
 bibtex: araujo2018training
 ---
-name: Understanding and Training Deep Diagonal Circulant Neural Networks
+title: Understanding and Training Deep Diagonal Circulant Neural Networks
 authors:
-        - Alexandre Araujo
-        - Benjamin Negrevergne
-        - Yann Chevaleyre
-        - Jamal Atif
+  - Alexandre Araujo
+  - Benjamin Negrevergne
+  - Yann Chevaleyre
+  - Jamal Atif
 url: https://arxiv.org/abs/1901.10255
 code: null
-venue: 24th European Conference on Artificial Intelligence (ECAI 2020)
+venue: ECAI
 year: 2019
 bibtex: araujo2019expressive
 ---
-name: Theoretical Evidence for Adversarial Robustness through Randomization
+title: Theoretical Evidence for Adversarial Robustness through Randomization
 authors:
-        - Rafael Pinot
-        - Laurent Meunier
-        - Alexandre Araujo
-        - Hisashi Kashima
-        - Florian Yger
-        - Cédric Gouy-Pailler
-        - Jamal Atif
+  - Rafael Pinot
+  - Laurent Meunier
+  - Alexandre Araujo
+  - Hisashi Kashima
+  - Florian Yger
+  - Cédric Gouy-Pailler
+  - Jamal Atif
 url: https://arxiv.org/abs/1902.01148
 code: https://github.com/MILES-PSL/Adversarial-Robustness-Through-Randomization
-venue: Advances in Neural Information Processing Systems 32
+venue: NeurIPS 
 year: 2019
 bibtex: pinot2019theoretical
 ---
-name: Advocating for Multiple Defense Strategies against Adversarial Examples
+title: Advocating for Multiple Defense Strategies against Adversarial Examples
 authors:
-        - Alexandre Araujo
-        - Laurent Menuier
-        - Rafael Pinot
-        - Benjamin Negrevergne
+  - Alexandre Araujo
+  - Laurent Menuier
+  - Rafael Pinot
+  - Benjamin Negrevergne
 url: https://arxiv.org/abs/2012.02632
 code: null
-venue: Workshop on Machine Learning for CyberSecurity (MLCS@ECML-PKDD)
+venue: ECML - Workshops
 year: 2020
 bibtex: araujo2020advocating
 ---
-name: On Lipschitz Regularization of Convolutional Layers using Toeplitz Matrix Theory
+title: On Lipschitz Regularization of Convolutional Layers using Toeplitz Matrix Theory
 authors:
-        - Alexandre Araujo
-        - Benjamin Negrevergne
-        - Yann Chevaleyre
-        - Jamal Atif
+  - Alexandre Araujo
+  - Benjamin Negrevergne
+  - Yann Chevaleyre
+  - Jamal Atif
 url: https://arxiv.org/abs/2006.08391
 code: https://github.com/MILES-PSL/upper_bound_lipschitz_convolutional_layers
-venue: Thirty-Fifth AAAI Conference on Artificial Intelligence
+venue: AAAI 
 year: 2020
 bibtex: araujo2020lipschitz
+---
+title: Building Compact and Robust Deep Neural Networks with Toeplitz Matrices
+authors:
+  - Alexandre Araujo
+url: https://arxiv.org/abs/2109.00959
+venue: PhD Thesis
+year: 2021
+bibtex: araujo2021building

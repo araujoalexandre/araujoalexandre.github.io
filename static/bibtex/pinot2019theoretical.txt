@@ -1,5 +1,5 @@
 @inproceedings{pinot2019theoretical,
-  title={Theoretical evidence for adversarial robustness through randomization},
+  title={Theoretical Evidence for Adversarial Robustness through Randomization},
   author={Pinot, Rafael and Meunier, Laurent and Araujo, Alexandre and Kashima, Hisashi and Yger, Florian and Gouy-Pailler, C{\'e}dric and Atif, Jamal},
   booktitle={Advances in Neural Information Processing Systems},
   pages={11838--11848},

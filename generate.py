@@ -7,15 +7,17 @@ from yaml import Loader
 class Paper:
 
   def __init__(self, data):
-    self.name = data['name']
+    self.title = data['title']
     self.authors = self.format(data['authors'])
     self.venue = data['venue']
     self.url = data['url']
-    self.code = data['code']
+    self.code = data.get('code', None)
     self.year = data['year']
-    self.bibtex = data['bibtex']
+    # self.bibtex = data['bibtex']
 
   def format(self, authors):
+    if len(authors) == 1:
+      return '<u>Alexandre Araujo</u>' 
     for i in range(len(authors)):
       if authors[i] == 'Alexandre Araujo':
         authors[i] = '<u>Alexandre Araujo</u>'
@@ -27,9 +29,36 @@ class Paper:
       authors_str += sep
     authors_str += authors[-1]
     return authors_str
-        
 
-def main():
+
+def generate_bibtex():
+  with open('bibtex.bib', 'r') as f:
+    bibtex = f.read()
+  kwords = []
+  title_map = {}
+  bibtex_lines = bibtex.split('\n')
+  bibtex_cite = bibtex.split('\n\n')
+  for line in bibtex_lines:
+    if len(line) > 0 and '@' in line[0]:
+      keyword = line.split('{')[-1].replace(',', '')
+      kwords.append(keyword)
+    if 'title' in line:
+      title = line.split('{')[-1].replace('},', '')
+      title_map[title] = keyword
+  for keyword, cite in zip(kwords, bibtex_cite):
+    filename = './static/bibtex/{}.txt'.format(keyword)
+    with open(filename, 'w') as f:
+      f.write(cite)
+
+  for k,v in title_map.items():
+    print(k, v)
+
+  return title_map
+
+def generate_website(title_map):
+
+  with open('description.txt') as f:
+    description = f.read()
 
   papers = []
   with open('data.yaml') as f:
@@ -37,10 +66,14 @@ def main():
       papers.append(Paper(doc))
   papers = papers[::-1]
 
+  for paper in papers:
+    paper.bibtex = title_map[paper.title]
+
   date = datetime.datetime.now()
   with open('template.temp') as f:
     template = Template(f.read())
-  html = template.render(papers=papers, date=date.strftime("%B %Y"))
+  html = template.render(
+    description=description, papers=papers, date=date.strftime("%B %Y"))
 
   with open('index.html', 'w') as f:
     f.write(html)
@@ -48,4 +81,6 @@ def main():
 
 
 if __name__ == '__main__':
-  main()
+  title_map = generate_bibtex()
+  generate_website(title_map)
+

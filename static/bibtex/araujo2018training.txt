@@ -1,13 +1,11 @@
 @inproceedings{araujo2018training,
-  author="Araujo, Alexandre and Negrevergne, Benjamin and Chevaleyre, Yann and Atif, Jamal",
-  editor="Leal-Taix{\'e}, Laura and Roth, Stefan",
-  title="Training Compact Deep Learning Models for Video Classification Using Circulant Matrices",
-  booktitle="Computer Vision -- ECCV 2018 Workshops",
-  year="2019",
-  publisher="Springer International Publishing",
-  address="Cham",
-  pages="271--286",
-  url="https://link.springer.com/chapter/10.1007/978-3-030-11018-5_25",
+  title={Training Compact Deep Learning Models for Video Classification using Circulant Matrices},
+  author={Araujo, Alexandre and Negrevergne, Benjamin and Chevaleyre, Yann and Atif, Jamal},
+  booktitle={Computer Vision -- ECCV 2018 Workshops},
+  editor={Leal-Taix{\'e}, Laura and Roth, Stefan},
+  publisher={Springer International Publishing},
+  address={Cham},
+  pages={271--286},
+  url={https://link.springer.com/chapter/10.1007/978-3-030-11018-5_25},
+  year={2019},
 }
-
-
