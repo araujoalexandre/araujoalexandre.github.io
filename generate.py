@@ -13,14 +13,14 @@ class Paper:
     self.url = data['url']
     self.code = data.get('code', None)
     self.year = data['year']
-    # self.bibtex = data['bibtex']
+    self.comment = data.get('comment', None)
 
   def format(self, authors):
     if len(authors) == 1:
-      return '<u>Alexandre Araujo</u>' 
+      return '<u>A. Araujo</u>' 
     for i in range(len(authors)):
-      if authors[i] == 'Alexandre Araujo':
-        authors[i] = '<u>Alexandre Araujo</u>'
+      if 'A. Araujo' in authors[i]:
+        authors[i] = f'<u>{authors[i]}</u>'
     sep = [', '] * (len(authors)-2)
     sep += [' and ']
     authors_str = ''

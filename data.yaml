@@ -1,71 +1,87 @@
 ---
 title: Training Compact Deep Learning Models for Video Classification using Circulant Matrices
 authors:
-  - Alexandre Araujo
-  - Benjamin Negrevergne
-  - Yann Chevaleyre
-  - Jamal Atif
+  - A. Araujo
+  - B. Negrevergne
+  - Y. Chevaleyre
+  - J. Atif
 url: https://arxiv.org/abs/1810.01140
 code: https://github.com/araujoalexandre/youtube8m-circulant
 venue: ECCV - Workshops
 year: 2018
-bibtex: araujo2018training
 ---
 title: Understanding and Training Deep Diagonal Circulant Neural Networks
 authors:
-  - Alexandre Araujo
-  - Benjamin Negrevergne
-  - Yann Chevaleyre
-  - Jamal Atif
+  - A. Araujo
+  - B. Negrevergne
+  - Y. Chevaleyre
+  - J. Atif
 url: https://arxiv.org/abs/1901.10255
 code: null
 venue: ECAI
 year: 2019
-bibtex: araujo2019expressive
 ---
 title: Theoretical Evidence for Adversarial Robustness through Randomization
 authors:
-  - Rafael Pinot
-  - Laurent Meunier
-  - Alexandre Araujo
-  - Hisashi Kashima
-  - Florian Yger
-  - Cédric Gouy-Pailler
-  - Jamal Atif
+  - R. Pinot
+  - L. Meunier
+  - A. Araujo
+  - H. Kashima
+  - F. Yger
+  - C. Gouy-Pailler
+  - J. Atif
 url: https://arxiv.org/abs/1902.01148
 code: https://github.com/MILES-PSL/Adversarial-Robustness-Through-Randomization
 venue: NeurIPS 
 year: 2019
-bibtex: pinot2019theoretical
 ---
 title: Advocating for Multiple Defense Strategies against Adversarial Examples
 authors:
-  - Alexandre Araujo
-  - Laurent Menuier
-  - Rafael Pinot
-  - Benjamin Negrevergne
+  - A. Araujo
+  - L. Menuier
+  - R. Pinot
+  - B. Negrevergne
 url: https://arxiv.org/abs/2012.02632
 code: null
 venue: ECML - Workshops
 year: 2020
-bibtex: araujo2020advocating
 ---
 title: On Lipschitz Regularization of Convolutional Layers using Toeplitz Matrix Theory
 authors:
-  - Alexandre Araujo
-  - Benjamin Negrevergne
-  - Yann Chevaleyre
-  - Jamal Atif
+  - A. Araujo
+  - B. Negrevergne
+  - Y. Chevaleyre
+  - J. Atif
 url: https://arxiv.org/abs/2006.08391
 code: https://github.com/MILES-PSL/upper_bound_lipschitz_convolutional_layers
 venue: AAAI 
 year: 2020
-bibtex: araujo2020lipschitz
 ---
 title: Building Compact and Robust Deep Neural Networks with Toeplitz Matrices
 authors:
-  - Alexandre Araujo
+  - A. Araujo
 url: https://arxiv.org/abs/2109.00959
 venue: PhD Thesis
 year: 2021
-bibtex: araujo2021building
+---
+title: A Dynamical System Perspective for Lipschitz Neural Networks
+authors:
+  - L. Meunier*
+  - B. Delattre*
+  - A. Araujo*
+  - A. Allauzen
+url: https://arxiv.org/abs/2110.12690
+venue: ICML
+year: 2022
+comment: ORAL
+---
+title: 'Towards Evading the Limits of Randomized Smoothing: A Theoretical Analysis'
+authors:
+  - R. Ettedgui*
+  - A. Araujo*
+  - R. Pinot
+  - Y. Chevaleyre
+  - J. Atif
+url: https://arxiv.org/ 
+venue: Under review 
+year: 2022

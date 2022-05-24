@@ -1,0 +1,5 @@
+@article{ettedgui2022towards,
+  title={Towards Evading the Limits of Randomized Smoothing: A Theoretical Analysis},
+  author={Ettedgui, Raphael and Araujo, Alexandre and Pinot, Rafael and Chevaleyre, Yann and Atif, Jamal},
+  year={2022}
+}

@@ -43,7 +43,9 @@
         </div>
       </div>
       <div class="row">
-        <p style="font-style: italic; margin-bottom:30px; margin-top: 30px; font-size: small">Last update October 2021</p>
+        <p style="font-style: italic; margin-bottom:30px; margin-top: 30px; font-size: small">
+          Last update {{ date }}
+        </p>
       </div>
 
       <div class="row" style="text-align: justify;">
@@ -79,7 +81,8 @@
           <span>{{ paper.authors }}</span>
         </div>
         <div class="row">
-          <span>{{ paper.venue }} • {{ paper.year }}</span>
+          <span>{{ paper.venue }} • {{ paper.year }}
+          {% if paper.comment is not none %} &#8212; {{ paper.comment }}{% endif %}</span>
         </div>
         <div class="article-links">
           <a class="strong" href="{{ paper.url }}">paper</a> •
@@ -93,6 +96,9 @@
     {% endfor %}
 
   </div>
+  
+  <section class="footer">
+  </section>
 
 
 </body>

@@ -1,0 +1,6 @@
+@article{meunier2022dynamical,
+  title={A Dynamical System Perspective for Lipschitz Neural Networks},
+  author={Meunier, Laurent and Delattre, Blaise and Araujo, Alexandre and Allauzen, Alexandre},
+  journal={International Conference on Machine Learning (ICML)},
+  year={2022}
+}
