@@ -82,6 +82,18 @@ authors:
   - R. Pinot
   - Y. Chevaleyre
   - J. Atif
-url: https://arxiv.org/ 
-venue: Under review 
+url: https://arxiv.org/abs/2206.01715
+venue: Preprint
 year: 2022
+---
+title: 'A Unified Algebraic Perspective on Lipschitz Neural Networks'
+authors:
+  - A. Araujo*
+  - A. Havens*
+  - B. Delattre
+  - A. Allauzen
+  - B. Hu
+url: https://arxiv.org/abs/2303.03169 
+venue: ICLR
+year: 2023
+comment: Spotlight

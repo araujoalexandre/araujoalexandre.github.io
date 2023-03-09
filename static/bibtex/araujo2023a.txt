@@ -1,0 +1,7 @@
+@inproceedings{araujo2023a,
+  title={A Unified Algebraic Perspective on Lipschitz Neural Networks},
+  author={Alexandre Araujo and Aaron J Havens and Blaise Delattre and Alexandre Allauzen and Bin Hu},
+  booktitle={The Eleventh International Conference on Learning Representations },
+  year={2023},
+  url={https://openreview.net/forum?id=k71IGLC8cfc}
+}
