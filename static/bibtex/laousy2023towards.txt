@@ -1,0 +1,6 @@
+@article{laousy2023towards,
+  title={Towards Better Certified Segmentation via Diffusion Models},
+  author={Laousy, Othmane and Araujo, Alexandre and Chassagnon, Guillaume and Revel, Marie-Pierre and Garg, Siddharth and Khorrami, Farshad and Vakalopoulou, Maria},
+  journal={Conference on Uncertainty in Artificial Intelligence (UAI)},
+  year={2023}
+}

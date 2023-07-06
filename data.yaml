@@ -97,3 +97,40 @@ url: https://arxiv.org/abs/2303.03169
 venue: ICLR
 year: 2023
 comment: Spotlight
+---
+title: 'Efficient Bound of Lipschitz Constant for Convolutional Layers by Gram Iteration'
+authors: 
+  B. Delattre
+  Q. Barthélemy
+  A. Araujo
+  A. Allauzen
+venue: ICML
+url: https://arxiv.org/abs/2305.16173
+code: https://github.com/blaisedelattre/lip4conv
+year: 2023
+---
+title: 'Towards Better Certified Segmentation via Diffusion Models'
+authors: 
+  - O. Laousy
+  - A. Araujo
+  - G. Chassagnon
+  - M. Revel
+  - S. Garg
+  - F. Khorrami
+  - M. Vakalopoulou
+url: https://arxiv.org/abs/2306.09949
+code: https://github.com/othmanela/certified_segmentation
+venue: UAI
+year: 2023
+---
+title: 'Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability'
+authors:
+  - H. Xue
+  - A. Araujo
+  - B. Hu
+  - Y. Chen
+venue: Preprint
+url: https://arxiv.org/abs/2305.16494
+code: https://github.com/xavihart/Diff-PGD
+year: 2023
+

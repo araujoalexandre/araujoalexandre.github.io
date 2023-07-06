@@ -1,0 +1,6 @@
+@article{delattre2023efficient,
+  title={Efficient Bound of Lipschitz Constant for Convolutional Layers by Gram Iteration},
+  author={Delattre, Blaise and Barth{\'e}lemy, Quentin and Araujo, Alexandre and Allauzen, Alexandre},
+  journal={International Conference on Machine Learning (ICML)},
+  year={2023}
+}
