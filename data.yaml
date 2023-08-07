@@ -1,5 +1,5 @@
 ---
-title: Training Compact Deep Learning Models for Video Classification using Circulant Matrices
+title: "Training Compact Deep Learning Models for Video Classification using Circulant Matrices"
 authors:
   - A. Araujo
   - B. Negrevergne
@@ -10,7 +10,7 @@ code: https://github.com/araujoalexandre/youtube8m-circulant
 venue: ECCV - Workshops
 year: 2018
 ---
-title: Understanding and Training Deep Diagonal Circulant Neural Networks
+title: "Understanding and Training Deep Diagonal Circulant Neural Networks"
 authors:
   - A. Araujo
   - B. Negrevergne
@@ -21,7 +21,7 @@ code: null
 venue: ECAI
 year: 2019
 ---
-title: Theoretical Evidence for Adversarial Robustness through Randomization
+title: "Theoretical Evidence for Adversarial Robustness through Randomization"
 authors:
   - R. Pinot
   - L. Meunier
@@ -35,7 +35,7 @@ code: https://github.com/MILES-PSL/Adversarial-Robustness-Through-Randomization
 venue: NeurIPS 
 year: 2019
 ---
-title: Advocating for Multiple Defense Strategies against Adversarial Examples
+title: "Advocating for Multiple Defense Strategies against Adversarial Examples"
 authors:
   - A. Araujo
   - L. Menuier
@@ -46,7 +46,7 @@ code: null
 venue: ECML - Workshops
 year: 2020
 ---
-title: On Lipschitz Regularization of Convolutional Layers using Toeplitz Matrix Theory
+title: "On Lipschitz Regularization of Convolutional Layers using Toeplitz Matrix Theory"
 authors:
   - A. Araujo
   - B. Negrevergne
@@ -57,14 +57,14 @@ code: https://github.com/MILES-PSL/upper_bound_lipschitz_convolutional_layers
 venue: AAAI 
 year: 2020
 ---
-title: Building Compact and Robust Deep Neural Networks with Toeplitz Matrices
+title: "Building Compact and Robust Deep Neural Networks with Toeplitz Matrices"
 authors:
   - A. Araujo
 url: https://arxiv.org/abs/2109.00959
 venue: PhD Thesis
 year: 2021
 ---
-title: A Dynamical System Perspective for Lipschitz Neural Networks
+title: "A Dynamical System Perspective for Lipschitz Neural Networks"
 authors:
   - L. Meunier*
   - B. Delattre*
@@ -75,7 +75,7 @@ venue: ICML
 year: 2022
 comment: ORAL
 ---
-title: 'Towards Evading the Limits of Randomized Smoothing: A Theoretical Analysis'
+title: "Towards Evading the Limits of Randomized Smoothing: A Theoretical Analysis"
 authors:
   - R. Ettedgui*
   - A. Araujo*
@@ -86,7 +86,7 @@ url: https://arxiv.org/abs/2206.01715
 venue: Preprint
 year: 2022
 ---
-title: 'A Unified Algebraic Perspective on Lipschitz Neural Networks'
+title: "A Unified Algebraic Perspective on Lipschitz Neural Networks"
 authors:
   - A. Araujo*
   - A. Havens*
@@ -98,18 +98,18 @@ venue: ICLR
 year: 2023
 comment: Spotlight
 ---
-title: 'Efficient Bound of Lipschitz Constant for Convolutional Layers by Gram Iteration'
+title: "Efficient Bound of Lipschitz Constant for Convolutional Layers by Gram Iteration"
 authors: 
-  B. Delattre
-  Q. Barthélemy
-  A. Araujo
-  A. Allauzen
+  - B. Delattre
+  - Q. Barthelemy
+  - A. Araujo
+  - A. Allauzen
 venue: ICML
 url: https://arxiv.org/abs/2305.16173
 code: https://github.com/blaisedelattre/lip4conv
 year: 2023
 ---
-title: 'Towards Better Certified Segmentation via Diffusion Models'
+title: "Towards Better Certified Segmentation via Diffusion Models"
 authors: 
   - O. Laousy
   - A. Araujo
@@ -123,7 +123,30 @@ code: https://github.com/othmanela/certified_segmentation
 venue: UAI
 year: 2023
 ---
-title: 'Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability'
+title: "Certification of Deep Learning Models for Medical Image Segmentation"
+authors: 
+  - O. Laousy
+  - A. Araujo
+  - G. Chassagnon
+  - N. Paragios
+  - M. Revel
+  - M. Vakalopoulou
+venue: MICCAI
+year: 2023
+---
+title: "R-LPIPS: An Adversarially Robust Perceptual Similarity Metric"
+authors:
+  - S. Ghazanfari
+  - S. Garg
+  - P. Krishnamurthy
+  - F. Khorrami
+  - A. Araujo
+venue: ICML Workshop on New Frontiers in Adversarial Machine Learning
+url: https://arxiv.org/abs/2307.15157
+code: https://github.com/SaraGhazanfari/R-LPIPS
+year: 2023
+---
+title: "Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability"
 authors:
   - H. Xue
   - A. Araujo
@@ -133,4 +156,17 @@ venue: Preprint
 url: https://arxiv.org/abs/2305.16494
 code: https://github.com/xavihart/Diff-PGD
 year: 2023
-
+---
+title: "Semidefinite Programs for Computing Lipschitz Bounds of Neural Networks with MaxMin Activations"
+authors:
+  - P. Pauli
+  - A. Havens
+  - A. Araujo
+  - S. Garg
+  - F. Khorrami
+  - F. Allgower
+  - B. Hu
+venue: Preprint
+url: null
+code: null
+year: 2023

@@ -1,0 +1,5 @@
+@article{pauli2023semidefinite,
+  title={Semidefinite Programs for Computing Lipschitz Bounds of Neural Networks with MaxMin Activations},
+  author={Pauli, Patricia and Havens, Aaron and Araujo, Alexandre and Garg, Siddharth and Khorrami, Farshad and Allg\"ower, Frank and Hu, Bin},
+  year={2023}
+}

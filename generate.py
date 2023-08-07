@@ -10,7 +10,7 @@ class Paper:
     self.title = data['title']
     self.authors = self.format(data['authors'])
     self.venue = data['venue']
-    self.url = data['url']
+    self.url = data.get('url', None)
     self.code = data.get('code', None)
     self.year = data['year']
     self.comment = data.get('comment', None)

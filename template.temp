@@ -35,11 +35,11 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3">
-          <img class="photo" src="photo.jpg">
+          <img class="photo" src="photo1.jpg">
         </div>
         <div class="col-lg-9">
           <h2 class="title">Alexandre Araujo</h2>
-          <h6>alexandre.araujo<img src="static/img/at-sign-icon.png" height="10" width="10">inria.fr</h6>
+          <h6>alexandre.araujo<img src="static/img/at-sign-icon.png" height="10" width="10">nyu.edu</h6>
         </div>
       </div>
       <div class="row">
@@ -55,6 +55,9 @@
       <div class="row" style="margin-bottom: 25px; margin-top: 25px;">
         <div class="col-3">
           <a style="margin-right:20px" href="https://scholar.google.fr/citations?user=wsu61VYAAAAJ">Google Scholar</a>
+        </div>
+        <div class="col-3">
+          <a href="https://github.com/araujoalexandre">Github</a>
         </div>
         <div class="col-3">
           <a href="resume.pdf">Resume</a>

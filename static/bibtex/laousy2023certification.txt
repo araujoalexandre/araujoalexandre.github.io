@@ -1,0 +1,6 @@
+@article{laousy2023certification,
+  title={Certification of Deep Learning Models for Medical Image Segmentation},
+  author={Laousy, Othmane and Araujo, Alexandre and Chassagnon, Guillaume and Revel, Marie-Pierre and Garg, Siddharth and Khorrami, Farshad and Vakalopoulou, Maria},
+  journal={Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+  year={2023}
+}
