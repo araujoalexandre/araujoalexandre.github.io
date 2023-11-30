@@ -1,6 +1,6 @@
-@article{xue2023diffusion,
+@inproceedings{xue2023diffusion,
   title={Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability},
   author={Xue, Haotian and Araujo, Alexandre and Hu, Bin and Chen, Yongxin},
-  journal={arXiv preprint arXiv:2305.16494},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2023}
 }

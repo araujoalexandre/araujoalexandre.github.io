@@ -1,0 +1,6 @@
+@article{delattre2023lipschitz,
+  title={The Lipschitz-Variance-Margin Tradeoff for Enhanced Randomized Smoothing},
+  author={Delattre, Blaise and Araujo, Alexandre and Barth{\'e}lemy, Quentin and Allauzen, Alexandre},
+  journal={arXiv preprint arXiv:2309.16883},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{ghazanfari2023lipsim,
+  title={LipSim: A Provably Robust Perceptual Similarity Metric},
+  author={Ghazanfari, Sara and Araujo, Alexandre and Krishnamurthy, Prashanth and Khorrami, Farshad and Garg, Siddharth},
+  journal={arXiv preprint arXiv:2310.18274},
+  year={2023}
+}

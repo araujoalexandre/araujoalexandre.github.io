@@ -146,27 +146,63 @@ url: https://arxiv.org/abs/2307.15157
 code: https://github.com/SaraGhazanfari/R-LPIPS
 year: 2023
 ---
+title: "Exploiting Connections between Lipschitz Structures for Certifiably Robust Deep Equilibrium Models"
+authors:
+  - A. Havens
+  - A. Araujo
+  - S. Garg
+  - F. Khorrami
+  - B. Hu 
+venue: NeurIPS
+url: https://openreview.net/forum?id=8F3Lutda7R
+code: https://github.com/AaronHavens/ExploitingLipschitzDEQ
+year: 2023
+---
 title: "Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability"
 authors:
   - H. Xue
   - A. Araujo
   - B. Hu
   - Y. Chen
-venue: Preprint
+venue: NeurIPS
 url: https://arxiv.org/abs/2305.16494
 code: https://github.com/xavihart/Diff-PGD
 year: 2023
+# ---
+# title: "Novel Quadratic Constraints for Extending LipSDP beyond Slope-Restricted Activations"
+# authors:
+#   - P. Pauli
+#   - A. Havens
+#   - A. Araujo
+#   - S. Garg
+#   - F. Khorrami
+#   - F. Allgower
+#   - B. Hu
+# venue: Preprint
+# url: null
+# code: null
+# year: 2023
 ---
-title: "Semidefinite Programs for Computing Lipschitz Bounds of Neural Networks with MaxMin Activations"
+title: "The Lipschitz-Variance-Margin Tradeoff for Enhanced Randomized Smoothing"
 authors:
-  - P. Pauli
-  - A. Havens
+  - B. Delattre
   - A. Araujo
-  - S. Garg
-  - F. Khorrami
-  - F. Allgower
-  - B. Hu
+  - Q. Barthélemy
+  - A. Allauzen 
 venue: Preprint
-url: null
+url: https://arxiv.org/abs/2309.16883 
 code: null
 year: 2023
+---
+title: "LipSim: A Provably Robust Perceptual Similarity Metric"
+authors:
+  - S. Ghazanfari
+  - A. Araujo
+  - P. Krishnamurthy
+  - F. Khorrami
+  - S. Garg
+venue: preprint
+url: https://arxiv.org/abs/2310.18274
+code: https://github.com/SaraGhazanfari/LipSim 
+year: 2023
+
