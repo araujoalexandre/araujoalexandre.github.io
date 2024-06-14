@@ -1,0 +1,6 @@
+@article{havens2023fine,
+  title={Fine-grained Local Sensitivity Analysis of Standard Dot-Product Self-Attention},
+  author={Havens, Aaron J and Araujo, Alexandre and Zhang, Huan and Hu, Bin},
+  journal={International Conference on Machine Learning (ICML)},
+  year={2023}
+}

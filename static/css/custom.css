@@ -157,6 +157,25 @@
 .article__year {
   display: inline; }
 
+.life-in-weeks .future-date {
+  background-color: #eee
+}
+.life-in-weeks .container {
+  max-width: 1200px;
+}
+
+/* Pop-overs */
+.popover {
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+}
+.popover-header {
+  font-size: 1.5em;
+}
+.popover-body {
+  font-size: 1.5em;
+}
+
+
 
 /* Larger than phone */
 @media (max-width: 550px) {
@@ -164,4 +183,6 @@
     text-align: left;
   }
 }
+
+
 

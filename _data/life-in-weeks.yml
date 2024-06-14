@@ -1,0 +1,158 @@
+'1990-09-25': 
+    name: "Fist week in this world"
+    desc: "xxx"
+    category: "self"
+
+'1992-12-18':
+    name: "👶 My brother, Baptiste, is born"
+    category: "family"
+
+'1997-12-12':
+    name: "👶 First sister, Noemie, is born"
+    category: "family"
+
+'2002-11-21':
+    name: "👶 Second sister, Clemence, is born"
+    category: "family"
+
+'1999-01-01':
+    name: "🚚 Moved to Toulouse, France"
+    category: "place"
+
+'2008-06-15':
+    name: "👨‍🎓 Passed the Baccalauréat"
+    category: "school"
+
+'2008-08-15':
+    name: "🚚 Moved to Marly le Roi, France"
+    category: "place"
+
+'2008-09-01':
+    name: "Start Ecole preparatoire"
+    desc: "This experience ended-up being a failure, I quit few weeks later and started at the University"
+    category: "school"
+
+'2008-12-01':
+    name: "Started at Versailles University"
+    desc: "xxx"
+    category: "school"
+
+'2010-06-01':
+    name: "Started working at Louis Vuitton"
+    category: "jobs"
+
+'2010-10-01':
+    name: "🚝 Moved to London"
+    category: "place"
+
+'2010-12-01':
+    name: "Started working at Harrod's"
+    desc: "Started working at Harrod's in London in the Burberry corner"
+    category: "jobs"
+
+'2011-08-15':
+    name: "🚝 Moved to Lille, France"
+    category: "place"
+
+'2011-09-01':
+    name: "Started Master degree at SKEMA Business School"
+    category: "school"
+
+'2012-09-01':
+    name: "Volunteering as Chairman in SKEMA Junior-Entreprise"
+    category: "jobs"
+
+'2013-09-17':
+    name: "Met Chuthima Khaou"
+    desc: "My future wife"
+    category: "relationship"
+
+'2014-08-26':
+    name: "Interned at Altima in Lille"
+    category: "jobs"
+
+'2015-02-20':
+    name: "Moved to Metz"
+
+'2015-03-01':
+    name: "Interned at Amazon in Luxembourg"
+    category: "jobs"
+
+'2015-06-01':
+    name: "Interned at Logmatic"
+    category: "jobs"
+
+'2015-07-29':
+    name: "🚝 Moved to Paris, first Parisian apartment 🏠"
+    category: "place"
+
+'2015-10-07':
+    name: "Bought CLRS book"
+    desc: "xxx"
+    link: "https://www.amazon.fr/gp/product/0262533057/"
+
+'2015-09-01':
+    name: "Started apprenticeship at Wavestone"
+    category: "jobs"
+
+'2016-06-01':
+    name: "👨‍🎓 Master graduation from SKEMA BS"
+    category: "study"
+
+'2017-09-01':
+    name: "Started my PhD"
+    desc: "Started my PhD on Machine Learning at University Paris-Dauphine under the supervision of Benjamin Negrevergne, Yann Chevaleyre and Jamal Atif"
+    category: "school"
+
+'2019-09-04':
+    name: "First NeurIPS paper"
+    desc: "xxx"
+    link: "https://proceedings.neurips.cc/paper_files/paper/2019/file/36ab62655fa81ce8735ce7cfdaf7c9e8-Paper.pdf"
+    category: "jobs"
+
+'2020-09-20':
+    name: "Caught COVID 😷"
+    desc: "xxx"
+    category: "personal"
+
+'2021-01-14':
+    name: "Grand-father passes away"
+    category: "family"
+
+'2021-06-01':
+    name: "👨‍🎓 Defended my PhD"
+    link: "https://arxiv.org/pdf/2109.00959"
+    category: "school"
+
+'2021-10-01':
+    name: "Started postdoc at INRIA, Paris"
+    category: "jobs"
+
+'2022-07-09':
+    name: "Got married to Chuthima Khaou"
+    category: "family"
+
+'2022-12-27':
+    name: "✈️  Moved to New York, US"
+    category: "place"
+
+'2023-01-05':
+    name: "Started postdoc at NYU"
+    category: "jobs"
+
+'2023-06-01':
+    name: "✈️  Honeymoon in Japan 🇯🇵"
+
+'2023-09-17':
+    name: "10 years whth Chuthi!"
+    category: "relationship"
+
+'2024-01-08':
+    name: "✈️  Moved to Dublin, Ireland"
+    category: "places"
+
+'2024-05-01':
+    name: "Dad turns 60"
+    category: "family"
+
+

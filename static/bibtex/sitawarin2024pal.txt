@@ -1,0 +1,6 @@
+@article{sitawarin2024pal,
+  title={PAL: Proxy-Guided Black-Box Attack on Large Language Models},
+  author={Chawin Sitawarin and Norman Mu and David Wagner and Alexandre Araujo},
+  journal={arXiv preprint arXiv:2402.09674},
+  year={2024}
+}

@@ -1,0 +1,6 @@
+@inproceedings{delattre2024the,
+  title={The Lipschitz-Variance-Margin Tradeoff for Enhanced Randomized Smoothing},
+  author={Blaise Delattre and Alexandre Araujo and Quentin Barth{\'e}lemy and Alexandre Allauzen},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+}

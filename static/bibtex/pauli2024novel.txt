@@ -1,0 +1,6 @@
+@inproceedings{pauli2024novel,
+  title={Novel Quadratic Constraints for Extending LipSDP beyond Slope-Restricted Activations},
+  author={Patricia Pauli and Aaron J Havens and Alexandre Araujo and Siddharth Garg and Farshad Khorrami and Frank Allg{\"o}wer and Bin Hu},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+}

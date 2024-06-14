@@ -169,20 +169,20 @@ venue: NeurIPS
 url: https://arxiv.org/abs/2305.16494
 code: https://github.com/xavihart/Diff-PGD
 year: 2023
-# ---
-# title: "Novel Quadratic Constraints for Extending LipSDP beyond Slope-Restricted Activations"
-# authors:
-#   - P. Pauli
-#   - A. Havens
-#   - A. Araujo
-#   - S. Garg
-#   - F. Khorrami
-#   - F. Allgower
-#   - B. Hu
-# venue: Preprint
-# url: null
-# code: null
-# year: 2023
+---
+title: "Novel Quadratic Constraints for Extending LipSDP beyond Slope-Restricted Activations"
+authors:
+  - P. Pauli
+  - A. Havens
+  - A. Araujo
+  - S. Garg
+  - F. Khorrami
+  - F. Allgower
+  - B. Hu
+venue: ICLR
+url: https://arxiv.org/abs/2401.14033
+code: https://github.com/ppauli/QCs_MaxMin
+year: 2024
 ---
 title: "The Lipschitz-Variance-Margin Tradeoff for Enhanced Randomized Smoothing"
 authors:
@@ -190,10 +190,24 @@ authors:
   - A. Araujo
   - Q. Barthélemy
   - A. Allauzen 
-venue: Preprint
+venue: ICLR
 url: https://arxiv.org/abs/2309.16883 
 code: null
-year: 2023
+year: 2024
+---
+title: "On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks"
+authors:
+  - Z. Wang
+  - A. Havens
+  - A. Araujo
+  - Y. Zheng
+  - B. Hu
+  - Y. Chen
+  - S. Jha
+venue: ICLR
+url: https://openreview.net/forum?id=dwzLn78jq7
+code: https://github.com/z1w/LipDiff
+year: 2024
 ---
 title: "LipSim: A Provably Robust Perceptual Similarity Metric"
 authors:
@@ -202,8 +216,29 @@ authors:
   - P. Krishnamurthy
   - F. Khorrami
   - S. Garg
-venue: preprint
+venue: ICLR
 url: https://arxiv.org/abs/2310.18274
 code: https://github.com/SaraGhazanfari/LipSim 
-year: 2023
-
+year: 2024
+---
+title: "PAL: Proxy-Guided Black-Box Attack on Large Language Models"
+authors: 
+  - C. Sitawarin
+  - N. Mu
+  - D. Wagner
+  - A. Araujo
+venue: preprint
+url: https://arxiv.org/abs/2402.09674
+code: https://github.com/chawins/pal
+year: 2024
+---
+title: "Fine-grained Local Sensitivity Analysis of Standard Dot-Product Self-Attention"
+authors:
+  - A. Havens
+  - A. Araujo
+  - H. Zhang
+  - B. Hu
+venue: ICML
+url: null
+code: null
+year: 2024

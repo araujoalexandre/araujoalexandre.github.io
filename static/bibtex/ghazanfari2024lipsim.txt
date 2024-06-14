@@ -1,0 +1,6 @@
+@inproceedings{ghazanfari2024lipsim,
+  title={LipSim: A Provably Robust Perceptual Similarity Metric},
+  author={Sara Ghazanfari and Alexandre Araujo and Prashanth Krishnamurthy and Farshad Khorrami and Siddharth Garg},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+}

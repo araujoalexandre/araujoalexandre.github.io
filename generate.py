@@ -57,11 +57,11 @@ def generate_bibtex():
 
 def generate_website(title_map):
 
-  with open('description.txt') as f:
+  with open('./_data/description.txt') as f:
     description = f.read()
 
   papers = []
-  with open('data.yaml') as f:
+  with open('./_data/index.yml') as f:
     for doc in yaml.load_all(f, Loader=Loader):
       papers.append(Paper(doc))
   papers = papers[::-1]
@@ -70,7 +70,7 @@ def generate_website(title_map):
     paper.bibtex = title_map[paper.title]
 
   date = datetime.datetime.now()
-  with open('template.temp') as f:
+  with open('./_layouts/index.html') as f:
     template = Template(f.read())
   html = template.render(
     description=description, papers=papers, date=date.strftime("%B %Y"))
